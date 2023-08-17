@@ -1,5 +1,3 @@
-## Material de Replicación
-
 En este repositorio se almacena el material de replicación de los análisis correspondientes a la publicación "Traducción, validación, y adaptación del español al Kreyol–creole haitiano de la Escala de Depresión del Centro de Estudios Epidemiológicos (CESD-R-20)"
 
 ### Autores
@@ -40,6 +38,11 @@ Base de datos anonimizada de la encuesta CESD-R-20
 
 Código para llevar a cabo los análisis: descriptivos, alfa de cronbach, análisis factorial exploratorio y confirmatorio, análisis gráfico exploratorio y paralelo en formato .Rmd
 
+## Para replicar
+
+1. Descargar el repositorio completo en su equipo
+2. Abrir el archivo .Rmd para poder replicar los análisis con la base de datos proporcionada
+3. También puede clonar el repositorio en su sesión de GitHub
 
 
 
