@@ -41,8 +41,8 @@ Código para llevar a cabo los análisis: descriptivos, alfa de cronbach, análi
 ## Para replicar
 
 1. Descargar el repositorio completo en su equipo
-2. Abrir el archivo .Rmd para poder replicar los análisis con la base de datos proporcionada
-3. También puede clonar el repositorio en su sesión de GitHub
+2. Abrir el archivo "traduccion_kreole.Rproj", el cual contiene el archivo .Rmd que permitirá replicar los análisis
+3. También puede clonar el repositorio en su sesión de GitHub y acceder al archivo "traduccion_kreole.Rproj"
 
 
 
