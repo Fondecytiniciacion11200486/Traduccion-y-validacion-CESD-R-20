@@ -1,0 +1,45 @@
+---
+title: "Traducción, validación, y adaptación del español al Kreyol–creole haitiano de la Escala de Depresión del Centro de Estudios Epidemiológicos (CESD-R-20)"
+author: "a; b; c; d; e; f"
+date: "June 17 2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=T)
+```
+
+## Material de Replicación
+
+En este repositorio almacenamos el materia de replicación de la publiación "Traducción, validación, y adaptación del español al Kreyol–creole haitiano de la Escala de Depresión del Centro de Estudios Epidemiológicos (CESD-R-20)"
+
+### Autores
+Las y los autores de este manuscrito son:
+Juan Paulo Marchant Espinoza
+José Miguel Cabezas, [jose.cabezas@uss.cl](jose.cabezas@uss.cl) [orcid](https://orcid.org/0000-0002-9173-0564)
+
+Claudia Rafful
+Ana Espinoza-Ortiz
+Tamara Otzen
+Alejandra Martínez
+Carla F. Olivari
+Mercedes Mercado Órdenes
+Esteban Calvo
+Judeline Cheristil
+Teresita Rocha-Jimenez, PhD
+
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
