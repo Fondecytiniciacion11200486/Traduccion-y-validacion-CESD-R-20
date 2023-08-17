@@ -1,13 +1,4 @@
----
-title: "Traducción, validación, y adaptación del español al Kreyol–creole haitiano de la Escala de Depresión del Centro de Estudios Epidemiológicos (CESD-R-20)"
-author: "a; b; c; d; e; f"
-date: "June 17 2023"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo=T)
-```
 
 ## Material de Replicación
 
@@ -27,19 +18,3 @@ Mercedes Mercado Órdenes
 Esteban Calvo
 Judeline Cheristil
 Teresita Rocha-Jimenez, PhD
-
-
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
