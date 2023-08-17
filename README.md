@@ -34,7 +34,7 @@ Teresita Rocha-Jimenez, PhD. Autora correspondiente, [orcid](https://orcid.org/0
 
 El propósito de este estudio es traducir, validar y adaptar la versión en español de la Escala de Depresión del Centro de Estudios Epidemiológicos (CESD-R-20) al kreyol.
 
-##Contenidos
+## Contenidos
 
 Base de datos anonimizada de la encuesta CESD-R-20 
 Código para llevar a cabo los análisis: descriptivos, alfa de cronbach, análisis factorial exploratorio y confirmatorio, análisis gráfico exploratorio y paralelo en formato .Rmd
