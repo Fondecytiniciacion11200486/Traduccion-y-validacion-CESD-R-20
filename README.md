@@ -1,8 +1,9 @@
 ## Material de Replicación
 
-En este repositorio almacenamos el materia de replicación de la publiación "Traducción, validación, y adaptación del español al Kreyol–creole haitiano de la Escala de Depresión del Centro de Estudios Epidemiológicos (CESD-R-20)"
+En este repositorio se almacena el material de replicación de los análisis correspondientes a la publicación "Traducción, validación, y adaptación del español al Kreyol–creole haitiano de la Escala de Depresión del Centro de Estudios Epidemiológicos (CESD-R-20)"
 
 ### Autores
+
 Las y los autores de este manuscrito son: 
 
 
@@ -28,4 +29,11 @@ Esteban Calvo [orcid](https://orcid.org/0000-0002-2382-5553)
 
 
 Teresita Rocha-Jimenez, PhD. Autora correspondiente, [orcid](https://orcid.org/0000-0003-2455-2865)
+
+## Objetivo
+
+El propósito de este estudio es traducir, validar y adaptar la versión en español de la Escala de Depresión del Centro de Estudios Epidemiológicos (CESD-R-20) al kreyol.
+
+
+
 
