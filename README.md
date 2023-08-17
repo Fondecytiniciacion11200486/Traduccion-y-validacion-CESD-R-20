@@ -37,6 +37,7 @@ El propósito de este estudio es traducir, validar y adaptar la versión en espa
 ## Contenidos
 
 Base de datos anonimizada de la encuesta CESD-R-20 
+
 Código para llevar a cabo los análisis: descriptivos, alfa de cronbach, análisis factorial exploratorio y confirmatorio, análisis gráfico exploratorio y paralelo en formato .Rmd
 
 
