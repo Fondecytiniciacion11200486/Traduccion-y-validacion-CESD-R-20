@@ -3,7 +3,8 @@
 En este repositorio almacenamos el materia de replicación de la publiación "Traducción, validación, y adaptación del español al Kreyol–creole haitiano de la Escala de Depresión del Centro de Estudios Epidemiológicos (CESD-R-20)"
 
 ### Autores
-Las y los autores de este manuscrito son: \\
+Las y los autores de este manuscrito son: 
+\\
 
 
 Juan Paulo Marchant Espinoza [orcid](https://orcid.org/0000-0001-6651-7086)
