@@ -4,6 +4,8 @@ En este repositorio almacenamos el materia de replicación de la publiación "Tr
 
 ### Autores
 Las y los autores de este manuscrito son:
+
+
 Juan Paulo Marchant Espinoza [orcid](https://orcid.org/0000-0001-6651-7086)
 
 
