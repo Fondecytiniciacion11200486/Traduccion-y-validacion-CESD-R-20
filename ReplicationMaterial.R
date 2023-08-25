@@ -1,7 +1,7 @@
 # Material de replicación
 # https://github.com/Fondecytiniciacion11200486/Traduccion-y-validacion-CESD-R-20
 # Created 230700
-# Updated 230823
+# Updated 230825
 # jcabezas@umd.edu; espinoza.anakaren@gmail.com
 
 
@@ -81,7 +81,7 @@ kreole %>% psych::principal(., nfactors=3)
 ## Parellel analysis ----
 
 ### Todos ----
-png('figuras/graficosed_all.png', width=4, height=3, units="in", res=108, pointsize = 7)
+png('figuras/graficosed_all.png', width=4, height=3, units="in", res=72, pointsize = 7)
 par(mai=c(.3,.5,.2,.1))
 psych::fa.parallel(todos, cor="cor",
                    main="Todos los casos",
@@ -90,7 +90,7 @@ dev.off()
 
 
 #### Espanol ----
-png('figuras/graficosed_esp.png', width=4, height=3, units="in", res=108, pointsize = 7)
+png('figuras/graficosed_esp.png', width=4, height=3, units="in", res=72, pointsize = 7)
 par(mai=c(.3,.5,.2,.1))
 psych::fa.parallel(espanol, cor="cor",
                    main="Español",
@@ -99,7 +99,7 @@ dev.off()
 
 
 #### Kreole ----
-png('figuras/graficosed_kre.png', width=4, height=3, units="in", res=108, pointsize = 7)
+png('figuras/graficosed_kre.png', width=4, height=3, units="in", res=72, pointsize = 7)
 par(mai=c(.3,.5,.2,.1))
 psych::fa.parallel(kreole, cor="cor",
                    main="Kreole",
