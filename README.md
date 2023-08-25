@@ -8,7 +8,7 @@ Las y los autores de este manuscrito son:
 Juan Paulo Marchant Espinoza [orcid](https://orcid.org/0000-0001-6651-7086)
 
 
-José Miguel Cabezas [jose.cabezas@uss.cl](jose.cabezas@uss.cl) [orcid](https://orcid.org/0000-0002-9173-0564)
+José Miguel Cabezas [jose.cabezas@uss.cl](mailto://jose.cabezas@uss.cl) [orcid](https://orcid.org/0000-0002-9173-0564)
 
 
 Claudia Rafful [orcid](https://orcid.org/0000-0003-0083-7276)
